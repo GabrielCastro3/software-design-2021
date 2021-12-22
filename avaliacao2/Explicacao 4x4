@@ -1,3 +1,8 @@
 Explicação de como consegui algumas resoluções do desafio 4x4:Eu peguei e fui combinando os maiores e menores números na mesma linha. 
-Alem disso, percebi que em todas as resoluções os 4 cantos e os 4 centros somam 34 também.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Alem disso, percebi que em todas as resoluções os 4 cantos e os 4 centros somam 34 também. Este foi algo que percebi que me ajudou a conseguir mais resoluções.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Em certas linhas, combinando 2 números maiores com 2 menores. 2 números nem grandes nem pequenos, com 1 grande e 1 pequeno. E 4 números nem grandes nem pequenos.
+Seguindo essa forma de organizar os números, se torna mais fácil de conseguir um resultado eficaz.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Agora, de resto fui fazendo um raciocinio para dar 34 em todos.
