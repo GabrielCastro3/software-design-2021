@@ -1,1 +1,11 @@
+Um possível modo de resolver o desafio 4x4:
 
+Dividir os números em 3 classes:
+-números altos
+-números médios
+-números baixos
+
+Tem-se que combinar os números da seguinte maneira: ou números altos com baixos, ou medios com medios, fazendo assim, pode-se observar que a soma sempre tenderá a 34.
+Dessa forma, terá normalmente um conjunto de ou 2 medios e 1 alto e 1 baixo, ou 2 altos e 2 baixos, ou 4 médios.
+Para conseguir fazer as diagonais somarem 34 também, terá que organizar os números nas linhas e colunas de forma que siga o mesmo padrão apresentado acima para que some 34,
+dessa maneira, haverá uma maior chance de que todas linhas, colunas e diagonais somem 34.
